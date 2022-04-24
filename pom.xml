@@ -10,10 +10,10 @@
   <java.version>1.8</java.version>
 </properties>
   <groupId>hbs</groupId>
-  <artifactId>hotelstaff</artifactId>
+  <artifactId>team15hbs-staff</artifactId>
   <packaging>jar</packaging>
   <version>0.0.1-SNAPSHOT</version>
-  <name>hotelstaff</name>
+  <name>team15hbs-staff</name>
 <dependencyManagement>
   <dependencies>
     <dependency>
